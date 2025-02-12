@@ -1,0 +1,3 @@
+<div align="center">
+  <video src="demos/your-video.mp4" width="400" autoplay loop muted />
+</div>
