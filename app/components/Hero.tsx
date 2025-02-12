@@ -21,7 +21,7 @@ export default function Hero() {
         </div>
         <div className="md:w-1/2">
           <Image
-            src="/placeholder.svg"
+            src="/drone-flying-over-farm-fields.jpg"
             alt="AgriDrone in action"
             width={600}
             height={400}
