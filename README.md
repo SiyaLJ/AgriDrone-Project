@@ -7,6 +7,11 @@ AgriDrone is an **IoT-based drone system** designed to help farmers monitor thei
 
 ---
 
+## **🎥 Project Demo**
+See AgriDrone in action:
+
+[![AgriDrone Demo](https://img.youtube.com/vi/cD31NXpJvIc/0.jpg)](https://youtu.be/cD31NXpJvIc)
+
 ## **Key Features**
 - **Real-Time Crop Monitoring**: Collects data on soil moisture, temperature, humidity, and visual crop health.
 - **Data Analytics**: Provides insights and trends to optimize farming practices.
@@ -27,13 +32,18 @@ AgriDrone is an **IoT-based drone system** designed to help farmers monitor thei
 
 ---
 
-## **Software Stack**
-- **Programming Language**: Python
+## **💻 Software Architecture**
+### Backend Stack
+- **Core**: Python
 - **Data Processing**: Pandas, NumPy
-- **Data Visualization**: Matplotlib, Plotly
-- **Web Framework**: Flask/Django (for the farmer's dashboard, to be integrated in next version)
-- **Database**: Firebase (for storing sensor data)
-- **IoT Communication**: MQTT/HTTP
+- **Visualization**: Matplotlib, Plotly
+- **Database**: Firebase
+- **Communication**: MQTT/HTTP Protocols
+
+### Future Integration
+- Web Dashboard (Flask/Django)
+- Enhanced Analytics Platform
+- Mobile App Support
 
 ---
 
